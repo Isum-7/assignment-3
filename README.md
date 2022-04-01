@@ -1,2 +1,2 @@
-# assignment-3
+# Lendino
 landing page
